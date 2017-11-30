@@ -65,5 +65,5 @@ Begin
     Show(NumStr);
     Write('Co ',Length(CharStr),' Ki tu la chu. Gom: ');
     Show(CharStr);
-    Read(e)
+    Read(e);
 End.
