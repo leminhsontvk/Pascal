@@ -12,7 +12,7 @@ Begin
     Clrscr;
     For Loop := 1 To VarN Do
         Begin
-            {Giai thua n=1*2*38..*n}
+            {Giai thua n=1*2*3*...*n}
             GT := GT*Loop;
         End;
     Write(VarN,'! = ',GT);
